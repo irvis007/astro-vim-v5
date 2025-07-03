@@ -18,6 +18,7 @@ return {
 
   -- utilities
   { import = "astrocommunity.diagnostics.lsp_lines-nvim" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
 
   { import = "astrocommunity.editing-support.hypersonic-nvim" },
   { import = "astrocommunity.editing-support.multiple-cursors-nvim" },
