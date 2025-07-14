@@ -34,4 +34,6 @@ return {
   { import = "astrocommunity.scrolling.neoscroll-nvim" },
 
   { import = "astrocommunity.file-explorer.telescope-file-browser-nvim" },
+
+  { import = "astrocommunity.workflow.hardtime-nvim" },
 }
