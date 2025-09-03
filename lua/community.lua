@@ -35,5 +35,7 @@ return {
 
   { import = "astrocommunity.file-explorer.telescope-file-browser-nvim" },
 
+  { import = "astrocommunity.remote-development.netman-nvim" },
+
   { import = "astrocommunity.workflow.hardtime-nvim" },
 }
