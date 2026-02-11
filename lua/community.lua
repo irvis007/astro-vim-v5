@@ -28,6 +28,7 @@ return {
   { import = "astrocommunity.editing-support.text-case-nvim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   { import = "astrocommunity.editing-support.dial-nvim" },
+  { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
 
   { import = "astrocommunity.recipes.auto-session-restore" },
 
