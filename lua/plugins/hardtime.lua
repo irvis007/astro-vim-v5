@@ -3,11 +3,11 @@ return {
   lazy = false,
   opts = {
     disabled_keys = {
-      ["<Insert>"] = { "", "i" },
-      ["<Home>"] = { "", "i" },
-      ["<End>"] = { "", "i" },
-      ["<PageUp>"] = { "", "i" },
-      ["<PageDown>"] = { "", "i" },
+      ["<Insert>"] = { "n", "i" },
+      ["<Home>"] = { "n", "i" },
+      ["<End>"] = { "n", "i" },
+      ["<PageUp>"] = { "n", "i" },
+      ["<PageDown>"] = { "n", "i" },
     },
     timeout = 10000,
   },
