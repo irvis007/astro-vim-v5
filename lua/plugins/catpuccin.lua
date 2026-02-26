@@ -23,7 +23,6 @@ return {
       symbols_outline = true,
       telescope = true,
       treesitter = true,
-      ts_rainbow = false,
       ufo = true,
       which_key = true,
       window_picker = true,
