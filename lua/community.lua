@@ -9,8 +9,8 @@ return {
   -- import/override with your plugins folder
 
   -- language suport
+  -- { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.bash" },
-  { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.terraform" },
