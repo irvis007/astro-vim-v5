@@ -14,6 +14,7 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.terraform" },
+  { import = "astrocommunity.pack.docker" },
 
   -- utilities
   { import = "astrocommunity.diagnostics.lsp_lines-nvim" },
